@@ -8,16 +8,6 @@ abstract class Table(lock:Int, tableurl:String) {
   def Lock_=( tlock : Int) = tlock
 
   def Url = url
-
-
-/*
-  def this(lock:Int, tableurl:String){
-    this()
-    this.tablelock = lock
-    this.url = tableurl
-    println("tableU storage in" + url)
-  }
-*/
 }
 
 object Table{
