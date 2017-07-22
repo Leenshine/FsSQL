@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FsSQL.iml" filepath="$PROJECT_DIR$/FsSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$//FsSQL.iml" filepath="$PROJECT_DIR$//FsSQL.iml" />
     </modules>
   </component>
 </project>
