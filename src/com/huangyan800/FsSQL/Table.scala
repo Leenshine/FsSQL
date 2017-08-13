@@ -1,3 +1,7 @@
+/*
+数据表抽象类
+ */
+
 package com.huangyan800.FsSQL
 
 abstract class Table(lock:Int, tableurl:String) {
